@@ -168,7 +168,7 @@ n2=abs(th2(n)-ph2)/(res2*pi/180);
         th2(n+1)=th2(n);
     end
     n=n+1;
-    %pause(0.1)
+    pause(0.1)
 
 end
 color='r';
